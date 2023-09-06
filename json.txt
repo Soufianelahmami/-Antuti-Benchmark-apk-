@@ -41,13 +41,18 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"CPU has updated test algorithms, optimized support for ARM's new Tri-Cluster architecture, bringing adjustment to stress distribution.",
+   "photo1":"https://iili.io/J9a3QkB.png"},
+  {"desc2":"GPU introduces new Vulkan scene - Terracotta Warriors aids testing mobile phone GPU performance while running high-stress games developed natively using Vulkan technology.",
+"photo2":"https://iili.io/J9a3QkB.png"},
+  {"desc3":" GPU upgrades OpenGL ES 3.1 based Coastline scene to Vulkan aiming at testing GPU Vulkan gaming performance under medium-to-high stress.",
+"photo3":"https://iili.io/J9a3ZmP.jpg"},
+  {"desc4":"MEM comes fully upgraded Memory test items checking both hardware Direct I/O & system filesystem performance.",
+"photo4":"https://iili.io/J9a3DI1.jpg"},
+  {"desc5":"UX sees an increase in load across all test scenes; screen refresh rate now falls under measurement scope.",
+"photo5":"https://iili.io/J9a3bhF.png"},
+  {"descd":"So with our guide apk antutu benchmark  app Immerse yourself in the definitive experience of Antutu Benchmark with our remarkable application, Antutu Benchmark APK Mod! Attain precise and contemporaneous ratings for cutting-edge smartphones including the IQOO 7, IQOO 9T, as well as the iPhone 11. ",
+"photod":"https://iili.io/J9a3DI1.jpg"}
    ]
  
 }
